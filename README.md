@@ -1,10 +1,6 @@
 # Microsoft_FRT_project
 Contains file developed during Microsoft Future Ready Talent Project
 
-GitHub Repo link - https://github.com/Rahul-Singh-Rawat/Microsoft_FRT_project
-
-Developed project link - https://rahul-mfrt-project.azurewebsites.net/
-
 # Industry Name : Health
 
 # Project Title -> 
